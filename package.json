@@ -1,0 +1,39 @@
+{
+	"name": "ra-spring",
+	"displayName": "Ra Spring",
+	"description": "Here is the best theme for your eye care!",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Spring",
+				"uiTheme": "vs",
+				"path": "./themes/ra-spring.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-spring"
+	},
+	"icon": "images/ra.png",
+	"keywords": [
+		"ra spring",
+		"raspring",
+		"ra-spring",
+		"ra spring theme",
+		"theme",
+		"ra"
+	]
+}
