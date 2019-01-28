@@ -5,5 +5,4 @@
 [GitHub Repository](https://github.com/rahmanyerli/ra-spring)
 
 ![banner](./images/ra-banner.png)
-
 ![code](./images/code.png)

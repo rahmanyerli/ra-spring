@@ -2,7 +2,7 @@
 	"name": "ra-spring",
 	"displayName": "Ra Spring",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -29,7 +29,7 @@
 	},
 	"icon": "images/ra.png",
 	"galleryBanner": {
-		"color": "#009999",
+		"color": "#CC9933",
 		"theme": "dark"
 	},
 	"keywords": [
