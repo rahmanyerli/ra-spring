@@ -2,7 +2,7 @@
 	"name": "ra-spring",
 	"displayName": "Ra Spring",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.0",
+	"version": "1.1.1",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -28,12 +28,19 @@
 		"url": "https://github.com/rahmanyerli/ra-spring"
 	},
 	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#009999",
+		"theme": "dark"
+	},
 	"keywords": [
 		"ra spring",
 		"raspring",
 		"ra-spring",
 		"ra spring theme",
 		"theme",
-		"ra"
+		"ra",
+		"dark theme",
+		"vscode theme",
+		"vscode dark theme"
 	]
 }

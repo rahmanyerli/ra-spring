@@ -4,25 +4,6 @@
 
 [GitHub Repository](https://github.com/rahmanyerli/ra-spring)
 
-> HTML
+![banner](./images/ra-banner.png)
 
-![Screen Shot-III](./images/html.png)
-
----
-
-> JS
-
-![Screen Shot-II](./images/js.png)
-
----
-
-> CSS
-
-![Screen Shot-III](./images/css.png)
-
----
-
-> JSON
-
-![Screen Shot-I](./images/json.png)
-
+![code](./images/code.png)
